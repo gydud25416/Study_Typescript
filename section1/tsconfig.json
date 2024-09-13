@@ -1,6 +1,6 @@
-{
-  "skipLibCheck": true,
+{ 
   "compilerOptions": {
+    "skipLibCheck": true,
     "moduleResolution": "node",
     "target": "ESNext",
     "module": "ESNext",
@@ -8,6 +8,5 @@
     "strict": false,
     "moduleDetection": "force"
   },
-  "include": ["src"]
-  
+  "include": ["src"] 
 }
