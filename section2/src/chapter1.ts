@@ -23,3 +23,8 @@ let null1: null = null;
 // undefined
 let unde1: undefined = undefined;
  
+//리터럴 타입
+//리터럴 -> 값
+let numA:10 = 10;
+let strA:"hello" = "hello";
+let boolA:true = true;
