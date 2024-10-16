@@ -8,4 +8,4 @@ type Animal = 'dog' | 'cat' | 'chicken';
 
 type ColoredAnimal = `${Color} - ${Animal}`
  
-const coloredAnimal : ColoredAnimal = ''
+// const coloredAnimal : ColoredAnimal = ''
