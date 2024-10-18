@@ -53,4 +53,4 @@ const readonlyPost : Readonly<Post> ={
     content:"",
 }
 
-readonlyPost.title = "ㅇㅇ"
+// readonlyPost.title = "ㅇㅇ"
